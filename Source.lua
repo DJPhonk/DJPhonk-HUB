@@ -1,7 +1,8 @@
 return loadstring(game:HttpGet("https://raw.githubusercontent.com/newredz/BloxFruits/refs/heads/main/Source.luau"))(Settings)
 
 game:GetService("StarterGui"):SetCore("SendNotification", { 
-	Title = "DJ Phonk";
-	Text = "BY DJ Phonk";
-	Icon = "https://create.roblox.com/store/asset/106808374231896/djphonk"})
-Duration = 5;
+    Title = "DJ Phonk";
+    Text = "BY DJ Phonk";
+    Icon = "rbxthumb://type=Asset&id=106808374231896&w=150&h=150";
+    Duration = 5;
+})
